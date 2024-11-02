@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AplicacionPerfilPersonal</string>
+    <string name="mi_perfil_personal">Mi Perfil Personal</string>
+    <string name="nombre">Nombre:</string>
+    <string name="avatar">avatar</string>
+    <string name="apellido">Apellido:</string>
+    <string name="correo_electronico">Correo Electronico:</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="otro">Otro</string>
+    <string name="seleccione_genero">Seleccione Genero:</string>
+    <string name="pais">Pais:</string>
+    <string name="intereses">Intereses:</string>
+    <string name="lectura">Lectura</string>
+    <string name="deporte">Deporte</string>
+    <string name="musica">Música</string>
+    <string name="arte">Arte</string>
+    <string name="nivel_de_satisfaccion">Nivel de Satisfacción</string>
+    <string name="suscripcion_al_boletin">Suscripción al Boletín</string>
+    <string name="enviar">Enviar</string>
+
+    <string-array name="paises_array">
+        <item>España</item>
+        <item>Italia</item>
+        <item>Reino Unido</item>
+        <item>Francia</item>
+        <item>Alemania</item>
+        <item>China</item>
+        <item>Japon</item>
+        <item>Autralia</item>
+    </string-array>
+</resources>

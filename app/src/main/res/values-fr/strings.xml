@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ApplicationProfilPersonnel</string>
+    <string name="mi_perfil_personal">Mon Profil Personnel</string>
+    <string name="nombre">Nom :</string>
+    <string name="avatar">Avatar</string>
+    <string name="apellido">Prénom :</string>
+    <string name="correo_electronico">E-mail :</string>
+    <string name="masculino">Homme</string>
+    <string name="femenino">Femme</string>
+    <string name="otro">Autre</string>
+    <string name="seleccione_genero">Sélectionnez le Genre :</string>
+    <string name="pais">Pays :</string>
+    <string name="intereses">Intérêts :</string>
+    <string name="lectura">Lecture</string>
+    <string name="deporte">Sport</string>
+    <string name="musica">Musique</string>
+    <string name="arte">Art</string>
+    <string name="nivel_de_satisfaccion">Niveau de Satisfaction</string>
+    <string name="suscripcion_al_boletin">Abonnement à la Newsletter</string>
+    <string name="enviar">Envoyer</string>
+
+    <string-array name="paises_array">
+        <item>Espagne</item>
+        <item>Italie</item>
+        <item>Royaume-Uni</item>
+        <item>France</item>
+        <item>Allemagne</item>
+        <item>Chine</item>
+        <item>Japon</item>
+        <item>Australie</item>
+    </string-array>
+</resources>
